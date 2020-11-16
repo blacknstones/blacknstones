@@ -2,7 +2,9 @@
 
 I'm Yanwei, a master's graduate in social science and on my journey to become a developer.
 
-- Love to create using different medium.
-- Want to use technology to solve social issues.
+What I do: 
+- Create visual and functionality using different medium.
+- Use technology to solve social issues.
+
 
 
