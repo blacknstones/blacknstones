@@ -3,7 +3,7 @@
 I'm Yanwei, a master's graduate in social science and on my journey to become a developer.
 
 What I do: 
-- Create visual and functionality with different medium.
+- Create visual and functionality with different media.
 - Use technology to solve social issues.
 
 
