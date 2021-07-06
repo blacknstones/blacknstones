@@ -1,10 +1,10 @@
 ### Hello world 🌻
 
-I'm Yanwei, a master's graduate in social science and on my journey to become a developer.
+I'm Yanwei, a former social science researcher with a strong understanding of societal issues turned web developer. 
 
-What I do: 
-- Create visual and functionality with different media.
-- Use technology to solve social issues.
+What I do:
+- Create clean and smooth user interfaces
+- Use technology to solve societal issues
 
 
 
