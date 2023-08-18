@@ -1,4 +1,4 @@
-### Hello world 🌻
+### Hello world 🌱
 
 I'm Yanwei, a former social science researcher turned web developer. 
 
